@@ -90,7 +90,7 @@ void  j__MouseScroll()
   if (j__mvX != 0 || j__mvY != 0) 
    {
     //SCROOL
-    Mouse.move( j__mvX, j__mvY *-1 ,j__mvY );
+    Mouse.move( j__mvX, j__mvY *-1 ,j__mvY*-1 );
     delay(scrollDelayInterval);
    }
 
