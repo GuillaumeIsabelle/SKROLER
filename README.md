@@ -22,6 +22,6 @@ More INFO :
 
 
  [JoystickMouseControl]:https://www.arduino.cc/en/Tutorial/JoystickMouseControl
- [Code]:https://github.com/jgwill/SKROLER/blob/master/skroler.ino
+ [Code]:https://github.com/GuillaumeIsabelle/SKROLER/blob/master/skroler.ino
 [Mouse.move]:https://www.arduino.cc/en/Reference/MouseMove
 [Interfacing a Joystick]:https://www.arduino.cc/en/Tutorial/JoyStick
